@@ -130,7 +130,7 @@ nav a {
 }*/
 .zone1::after {
 	content: '';
-	background: url('./batman-img/batnew.svg');
+	background: url('./batman-img/batnew.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	opacity: 0.3;
